@@ -15,14 +15,13 @@ header {
   background-image: url('./assets/group_header.jpg');
   background-size: cover;
   background-position: center;
-
   overflow: hidden;
   position: relative;
   width: 100%;
 }
 
 header img {
-  margin-bottom: 2em;
+  margin-bottom: 1em;
   max-width: 80%;
 }
 
