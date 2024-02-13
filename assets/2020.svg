@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg viewBox="0 0 1616 888" width="1616" height="888" xmlns="http://www.w3.org/2000/svg">
-  <rect x="79.298" y="199.388" width="506.358" height="544.27" style="stroke-width: 1.712; stroke: rgba(0, 0, 0, 0); fill: rgba(255, 255, 255, 0.424);" transform="matrix(0.9999989867210387, 0.00101500004529953, 0, 1.0000009536743164, 0.7022349343036467, -24.253172282176763)"/>
+  <rect x="79.298" y="199.388" width="506.358" height="544.27" style="stroke-width: 1.712; stroke: rgba(0, 0, 0, 0); fill: rgb(255, 255, 255);" transform="matrix(0.9999989867210387, 0.00101500004529953, 0, 1.0000009536743164, 0.7022349343036467, -24.253172282176763)"/>
   <g transform="matrix(0.609875023365, 0, 0, 0.609875023365, -1843.620605639948, -740.689153977249)" style="transform-origin: 2174px 1159px;">
     <rect x="1809.953" y="857.255" width="107" height="294" fill="#E97132"/>
     <rect x="1987.953" y="857.255" width="106" height="294" fill="#E97132"/>
