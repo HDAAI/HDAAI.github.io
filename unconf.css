@@ -47,7 +47,7 @@ nav a {
   justify-content: center;
   align-items: center;
   flex: 1;
-  color: #47317d;
+  color: #000000;
   letter-spacing: 0.1rem;
   transition: all 0.5s ease;
   font-size: 1rem;
@@ -56,7 +56,7 @@ nav a {
 
 nav a:hover {
   color:white;
-  background-color: rgba(71, 49, 125, 0.8);
+  background-color: #e97132);
   transition: all 0.5s ease;
 }
 
